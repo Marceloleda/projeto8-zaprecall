@@ -1,0 +1,31 @@
+.card{
+    width: 300px;
+    height: 65px;
+    margin-bottom: 25px;
+    background: #FFFFFF;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.card:hover{
+    background-color: #e7dfdf; 
+    transition: 0.9s;
+    opacity: 0.8;
+}
+.cards{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 70px;
+}
+.cards p{
+    font-family: 'Recursive', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #333333;
+}

@@ -4,7 +4,7 @@ h1{
     font-size: 36px;
     line-height: 45px;
     letter-spacing: -0.012em;
-    color: #FFFFFF;
+    color: #ffffff;
 }
 .tela1 img{
     margin-top: 150px;
@@ -32,7 +32,7 @@ button{
     
 }
 button:hover{
-    background-color: #000000; 
-    transition: 0.5s;
-    opacity: 0.7;
+    background-color: #131111; 
+    transition: 0.9s;
+    opacity: 0.9;
 }
