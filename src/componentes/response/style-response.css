@@ -1,0 +1,8 @@
+.return{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.return img{
+    cursor: pointer;
+}
